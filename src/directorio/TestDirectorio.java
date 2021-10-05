@@ -9,8 +9,13 @@ package directorio;
  *
  * @author TomasNievas
  */
-public class Directorio {
-    private long telefono;
-    private Cliente cliente;
+public class TestDirectorio {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
+    }
     
 }

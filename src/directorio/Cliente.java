@@ -10,5 +10,12 @@ package directorio;
  * @author TomasNievas
  */
 public class Cliente {
+    private long dni;
+    private String nombre;
+    private String apellido;
+    private String direccion;
+    private String ciudad;
+    
+    
     
 }
